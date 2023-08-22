@@ -2,3 +2,4 @@
 docker-bench
 coverage.txt
 dist
+./.idea
