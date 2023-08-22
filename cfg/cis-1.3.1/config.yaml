@@ -11,3 +11,12 @@ docker-config-file:
 
 audit-log:
   value: /var/log/audit/audit.log
+
+docker-daemon:
+  value: /usr/bin/dockerd
+
+run-containerd:
+  value: /run/containerd
+
+etc-docker:
+  value: /etc/docker
